@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align: center;
+    margin-top: 100px;
+    border: 8px dotted green;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 400px;
+    margin-top: 100px;
+    padding: 209px;
+    background-color:aqua;
+    font-size: 100px;
+    text-decoration: underline;
+    background-image: url(photos/relaxing_image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+h1:hover {
+color: green ;
+
+}
+
+body {
+
+}
